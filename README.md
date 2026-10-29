@@ -25,11 +25,56 @@ Final-year B.Tech + M.Tech (Dual Degree) student in Data Science / CSE at NIT Pa
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+## Education
+
+- **National Institute of Technology, Patna** (2022–2027) — B.Tech + M.Tech (Dual Degree) in Data Science / Computer Science and Engineering · **CGPA: 8.79**
+- **CBSE, Senior Secondary** (2021) — **91.6%**
+- **CBSE, Secondary** (2019) — **94.6%**
+
+## Experience
+
+**Software Development Intern — TrailShopy** (May 2025 – Jul 2025, Remote)
+
+- Built responsive UI components, improving cross-device compatibility and page load performance.
+- Designed and implemented backend services and RESTful APIs with cross-functional teams, contributing to bug fixes, feature development, and system stability.
+- Conducted code reviews, testing, and debugging, ensuring clean, maintainable code and improving application reliability.
+
 ## Featured Projects
 
-- **[FineSurE](https://github.com/adarsh-2011/FineSurE)** — Fine-grained evaluation of LLM-generated summaries · 86.4% balanced accuracy
-- **[DhanMitra AI](https://github.com/adarsh-2011/DhanMitra-AI)** — Personal finance guidance platform for Indian users · Random Forest, ~91% accuracy
-- **[GharValue AI](https://github.com/adarsh-2011/GharValue-AI)** — Bangalore house-price prediction web app · Linear Regression
+- **[FineSurE](https://github.com/adarsh-2011/FineSurE)** (Nov 2025) — Fine-grained text summarization evaluation framework using LLMs, measuring summary quality across faithfulness, completeness, and conciseness · **86.4% balanced accuracy** in sentence-level faithfulness evaluation, with stronger human correlation than similarity-, NLI-, QA-, and LLM-based baselines · Tools: Python, NLP, LLMs
+- **[DhanMitra AI](https://github.com/adarsh-2011/DhanMitra-AI)** (Apr 2025) — Smart personal finance guidance system for Indian users: personalized budgeting, savings strategies, and financial insights from income, expenses, and spending behavior · Random Forest model with **~91% prediction accuracy** · Tools: ReactJS, Tailwind CSS, NodeJS, Python, Machine Learning
+- **[GharValue AI](https://github.com/adarsh-2011/GharValue-AI)** — Bangalore house-price prediction web app · Linear Regression on historical real-estate data
+
+## Technical Skills
+
+- **Programming Languages:** Java, Python, JavaScript, C
+- **Backend & APIs:** RESTful APIs, API Development, Backend Development, Web Services, NodeJS, Postman
+- **Databases:** MySQL, MongoDB, SQL
+- **Web Development:** HTML5, CSS3, ReactJS, JavaScript, MERN Stack
+- **Core CS:** Data Structures, Algorithms, Object-Oriented Programming, Operating Systems, Computer Networks, Software Engineering
+- **Engineering:** Testing, Debugging, Code Reviews, Application Reliability
+
+## Positions of Responsibility
+
+- Volunteer, National Service Scheme (NSS), NIT Patna (Dec 2022 – Present)
+- Mentor and Teacher, Sankalp (NSS), NIT Patna (Jan 2023 – Present)
+- Member of Web Development Team, Science and Environment Club, NIT Patna (Feb 2024 – Present)
+- Member of Web Development Team, Think India, NIT Patna (Apr 2024 – Present)
+
+## Achievements
+
+- 5★ HackerRank in Java and Knight at LeetCode
+- Selected among the top 3,000 of 130,000+ applicants nationwide for Amazon ML Summer School 2026
+- Solved 700+ DSA problems on CodeChef, LeetCode, and GeeksforGeeks
+- Gold Medalist — School Topper in both Secondary and Senior Secondary examinations
+- Qualified JEE Advanced 2022
+
+## Certifications
+
+- Coursera — Data Science
+- Physics Wallah — Backend Development
+- ISRO — Overview of Space Science
+- Postman & HackSlash — Postman API
 
 ## GitHub Stats
 
