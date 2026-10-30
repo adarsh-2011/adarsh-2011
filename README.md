@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Adarsh+Srivastava;SDE+%E2%80%A2+ML+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi%2C+I%27m+Adarsh+Srivastava%3BSDE+%E2%80%A2+ML+Enthusiast)
 
 Final-year B.Tech + M.Tech (Dual Degree) student in Data Science / CSE at NIT Patna (2022–2027).
 
@@ -44,6 +44,8 @@ Final-year B.Tech + M.Tech (Dual Degree) student in Data Science / CSE at NIT Pa
 - **[FineSurE](https://github.com/adarsh-2011/FineSurE)** (Nov 2025) — Fine-grained text summarization evaluation framework using LLMs, measuring summary quality across faithfulness, completeness, and conciseness · **86.4% balanced accuracy** in sentence-level faithfulness evaluation, with stronger human correlation than similarity-, NLI-, QA-, and LLM-based baselines · Tools: Python, NLP, LLMs
 - **[DhanMitra AI](https://github.com/adarsh-2011/DhanMitra-AI)** (Apr 2025) — Smart personal finance guidance system for Indian users: personalized budgeting, savings strategies, and financial insights from income, expenses, and spending behavior · Random Forest model with **~91% prediction accuracy** · Tools: ReactJS, Tailwind CSS, NodeJS, Python, Machine Learning
 - **[GharValue AI](https://github.com/adarsh-2011/GharValue-AI)** — Bangalore house-price prediction web app · Linear Regression on historical real-estate data
+- **[Collaborative Editor](https://github.com/adarsh-2011/collaborative-editor)** — Real-time collaborative document editor (mini Google Docs) with OT-based merge, live presence, zero-dependency Node.js
+- **[Streaming Recommendation Engine](https://github.com/adarsh-2011/streaming-recommendation-engine)** — Hybrid collaborative-filtering plus trending fallback over a simulated live event stream, zero-dependency Node.js
 
 ## Technical Skills
 
